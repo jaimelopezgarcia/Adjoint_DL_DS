@@ -1,0 +1,3 @@
+https://github.com/rtqichen/torchdiffeq
+https://github.com/EmilienDupont/augmented-neural-odes
+https://github.com/DiffEqML/torchdyn
